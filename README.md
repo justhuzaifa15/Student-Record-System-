@@ -149,7 +149,7 @@ Potential future enhancements include:
 
 ## Author
 
-**Huzaifa Imran**
+**Muhammad Huzaifa Imran**
 
 BS Artificial Intelligence
 
