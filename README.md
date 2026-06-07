@@ -2,9 +2,9 @@
 
 ## Overview
 
-Student Record System is a desktop application developed using Java Swing that allows users to manage student records efficiently. The system provides complete CRUD (Create, Read, Update, Delete) functionality with file-based data storage, making it suitable for learning Object-Oriented Programming, GUI development, and file handling concepts.
+Student Record System is a desktop application developed using Java Swing. It allows users to manage student records through a simple graphical interface with complete CRUD functionality.
 
-The application stores student records in a text file and provides an easy-to-use graphical interface for managing student information.
+The system stores student records in a text file and demonstrates core Java concepts such as GUI development, file handling, event handling, validation, and Object-Oriented Programming.
 
 ---
 
@@ -18,18 +18,18 @@ The application stores student records in a text file and provides an easy-to-us
 * Edit Student Details
 * Delete Student Record
 
-### Validation & Security
+### Validation
 
 * Duplicate ID Prevention
 * Empty Field Validation
-* CGPA Validation (0.0 – 4.0)
+* CGPA Validation from 0.0 to 4.0
 * Confirmation Before Deletion
 
 ### Data Storage
 
 * Persistent File Storage using `Student.txt`
-* Automatic Data Retrieval
-* Automatic Record Updates
+* Automatic Record Reading
+* Automatic Record Updating
 
 ---
 
@@ -44,12 +44,12 @@ The application stores student records in a text file and provides an easy-to-us
 
 ## Programming Concepts Demonstrated
 
-* Object-Oriented Programming (OOP)
+* Object-Oriented Programming
 * GUI Development
 * Event Handling
 * File Handling
 * Exception Handling
-* Arrays and ArrayLists
+* ArrayList
 * CRUD Operations
 * Input Validation
 
@@ -59,15 +59,11 @@ The application stores student records in a text file and provides an easy-to-us
 
 ### Add Student
 
-Allows users to add a new student record by entering:
-
-* Student Name
-* Student ID
-* Student CGPA
+Allows users to add a new student record by entering student name, ID, and CGPA.
 
 ### View Students
 
-Displays all stored student records in a table format using JTable.
+Displays all stored student records in table format using `JTable`.
 
 ### Search Student
 
@@ -75,20 +71,11 @@ Allows users to search for a student by entering the student ID.
 
 ### Edit Student
 
-Allows users to:
-
-* Search an existing student by ID
-* Modify student information
-* Save updated details
+Allows users to search an existing student by ID, modify student information, and save updated details.
 
 ### Delete Student
 
-Allows users to:
-
-* Search a student
-* View details before deletion
-* Confirm deletion
-* Remove the record permanently
+Allows users to search a student, view details before deletion, confirm deletion, and remove the record permanently.
 
 ---
 
@@ -96,27 +83,27 @@ Allows users to:
 
 ### Main Menu
 
-![Main Menu](Student Record System/screenshots/main-menu.png)
+![Main Menu](Student%20Record%20System/screenshots/main-menu.png)
 
 ### Add Student
 
-![Add Student](Student Record System/screenshots/add-student.png)
+![Add Student](Student%20Record%20System/screenshots/add-student.png)
 
 ### View Students
 
-![View Students](Student Record System/screenshots/view-students.png)
+![View Students](Student%20Record%20System/screenshots/view-students.png)
 
 ### Search Student
 
-![Search Student](Student Record System/screenshots/search-student.png)
+![Search Student](Student%20Record%20System/screenshots/search-student.png)
 
 ### Edit Student
 
-![Edit Student](Student Record System/screenshots/edit-student.png)
+![Edit Student](Student%20Record%20System/screenshots/edit-student.png)
 
 ### Delete Student
 
-![Delete Student](Student Record System/screenshots/delete-student.png)
+![Delete Student](Student%20Record%20System/screenshots/delete-student.png)
 
 ---
 
@@ -136,9 +123,7 @@ This project helped strengthen understanding of:
 
 ## Future Improvements
 
-Potential future enhancements include:
-
-* Database Integration (MySQL)
+* Database Integration with MySQL
 * User Authentication System
 * Export Records to CSV
 * Advanced Search Filters
@@ -150,9 +135,7 @@ Potential future enhancements include:
 ## Author
 
 **Muhammad Huzaifa Imran**
-
 BS Artificial Intelligence
-
 HITEC University, Taxila
 
 GitHub: https://github.com/justhuzaifa15
