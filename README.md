@@ -96,27 +96,27 @@ Allows users to:
 
 ### Main Menu
 
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](Student Record System/screenshots/main-menu.png)
 
 ### Add Student
 
-![Add Student](screenshots/add-student.png)
+![Add Student](Student Record System/screenshots/add-student.png)
 
 ### View Students
 
-![View Students](screenshots/view-students.png)
+![View Students](Student Record System/screenshots/view-students.png)
 
 ### Search Student
 
-![Search Student](screenshots/search-student.png)
+![Search Student](Student Record System/screenshots/search-student.png)
 
 ### Edit Student
 
-![Edit Student](screenshots/edit-student.png)
+![Edit Student](Student Record System/screenshots/edit-student.png)
 
 ### Delete Student
 
-![Delete Student](screenshots/delete-student.png)
+![Delete Student](Student Record System/screenshots/delete-student.png)
 
 ---
 
